@@ -1,0 +1,27 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(251, 239, 180);
+    color:rgb(255, 163, 81);
+    font-family: sans-serif;
+}
+
+.bodyimg{
+    background-color:rgb(251, 239, 180);
+    color: rgb(255, 163, 81);
+}
+
+
+.grid{
+    display: flex;
+}
+
+.origami{
+    background-color:rgb(251, 239, 180);
+    color: rgb(255, 163, 81);
+    font-family: sans-serif;
+} 
+
+body{
+background-color:rgb(255, 190, 123);
+}
